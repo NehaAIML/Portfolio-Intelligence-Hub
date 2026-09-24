@@ -1,0 +1,1 @@
+# Portfolio Intelligence Hub - Architecture Specification\n# Copyright (c) 2026 Neha Purohit. All Rights Reserved.\n\nProprietary system architecture and autonomous agent topology.\n
